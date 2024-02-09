@@ -38,9 +38,6 @@ a:hover {
   line-height: 130px;
   text-transform: uppercase;
 }
-.heading::before {
-  content: '/';
-}
 .main-header {
   position: absolute;
   width: 100%;
